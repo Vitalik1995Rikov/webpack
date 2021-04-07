@@ -1,0 +1,27 @@
+{
+  "name": "webpack_name",
+  "version": "1.0.0",
+  "description": "webpack start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitalik1995Rikov/webpack.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "I am",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitalik1995Rikov/webpack/issues"
+  },
+  "homepage": "https://github.com/Vitalik1995Rikov/webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
